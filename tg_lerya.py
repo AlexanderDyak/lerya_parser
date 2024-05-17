@@ -9,7 +9,7 @@ from aiogram.types import BufferedInputFile, CallbackQuery
 
 import lerya
 
-Api_tg_Token = '6692691429:AAFagkU_TTogj1KKLR1g7f2sf0dR30PC0Hc'
+Api_tg_Token = ''
 logging.basicConfig(level=logging.INFO)
 bot = aiogram.Bot(token=Api_tg_Token)
 dp = aiogram.Dispatcher()
